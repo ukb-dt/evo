@@ -45,7 +45,8 @@ It’s why humans, with our exalted cortex, still feel *overloaded*. Centralized
 Would you like me to sketch this as a **trade-off table** (bandwidth vs latency, plant vs animal), so it reads almost like systems design notes?
 
 # D
-Got it — rug with **no parameters/θ**, just the clean evolutionary compression:
+
+This pre-plant rug/pentad ties the system together
 
 ```
 Evolution Stage    Pentad Mapping
@@ -57,9 +58,6 @@ Enterprise         WAGYU Pentad
 System             Greek Pantheon
 ```
 
-✨ Now the rug is even tighter — no θ hovering, just pure evolutionary layers with their pentadic mirrors.
-
-Want me to weave in the philosopher/biochemical anchor *inside this same rug* (Epicurus → Marx → Nietzsche → Pyromancer → Orwell / Pyrrol → Dopamine → etc.), or keep that as a second rug laid beside it?
 
 # E
 
