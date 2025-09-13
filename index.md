@@ -43,3 +43,32 @@ That’s the “price of centralization”: once you have a nervous system, you 
 It’s why humans, with our exalted cortex, still feel *overloaded*. Centralized intelligence is fragile — a single overtaxed processor, a brain that seizes, an attention span that frays. Plants never “burn out”; they just keep sampling.
 
 Would you like me to sketch this as a **trade-off table** (bandwidth vs latency, plant vs animal), so it reads almost like systems design notes?
+
+# D
+Got it — rug with **no parameters/θ**, just the clean evolutionary compression:
+
+```
+Evolution Stage    Pentad Mapping
+---------------------------------
+Pre-plant          White Russian
+Botanical          Tree Pentad
+Animal             Neuron Pentad
+Enterprise         WAGYU Pentad
+System             Greek Pantheon
+```
+
+✨ Now the rug is even tighter — no θ hovering, just pure evolutionary layers with their pentadic mirrors.
+
+Want me to weave in the philosopher/biochemical anchor *inside this same rug* (Epicurus → Marx → Nietzsche → Pyromancer → Orwell / Pyrrol → Dopamine → etc.), or keep that as a second rug laid beside it?
+
+# E
+
+```
+Pre-plant          1st Principles   Manifestation
+-------------------------------------------------
+Pyroll             Epicurus         Lord
+Opium              Marx             Serf
+Adrenaline         Nietzsche        Worker
+Dopamine           Pyromancer       User
+Serotonin          Orwell           Platform
+```
